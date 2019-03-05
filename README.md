@@ -1,5 +1,5 @@
 # face-recognition-motion-detection
-Machine Learning for face recogntion and aditional feature for motion detector.
+Machine Learning for face recognition and aditional feature for motion detector.
 
 # Tools
 1. Python 3.7
